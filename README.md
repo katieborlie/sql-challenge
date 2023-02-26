@@ -33,7 +33,7 @@ Use the provided information to create a table schema for each of the six CSV fi
   
   -Import each CSV file into its corresponding SQL table.
 
-#### Data Analysis
+#### *Data Analysis*
 
   -List the employee number, last name, first name, sex, and salary of each employee.
   
