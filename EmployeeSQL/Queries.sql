@@ -1,4 +1,4 @@
-#### 1. List the employee number, last name, first name, sex, and salary of each employee.
+-- 1. List the employee number, last name, first name, sex, and salary of each employee.
 SELECT a.emp_no, a.last_name, a.first_name, a.sex, b.salary 
 FROM employees a, salaries b 
 WHERE  a.emp_no = b.emp_no
